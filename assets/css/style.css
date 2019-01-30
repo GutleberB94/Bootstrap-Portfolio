@@ -1,0 +1,12 @@
+.selfPhoto {
+    height: 40%;
+}
+.row1 {
+    margin: 10px;
+}
+.borderRed {
+    border: solid 2px red;
+}
+.borderBlue {
+    border: solid 2px blue;
+}
