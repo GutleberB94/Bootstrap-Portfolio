@@ -28,6 +28,8 @@ footer {
     border: solid 2px grey;
     width: 100%;
     padding: 3% 0% 3% 4%;
+    background-color: #555;
+    color: azure;
   }
   input {
       width: 90%;
@@ -42,7 +44,7 @@ footer {
   .centerText {
       background-color: #555;
       color: azure;
+      margin-top: 2%;
   }
   .newForm {
-      background-color: #555;
   }
