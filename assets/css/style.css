@@ -27,10 +27,19 @@ footer {
     margin: 2% 20% 8% 20%;
     border: solid 2px grey;
     width: 100%;
+    padding: 3% 0% 3% 4%;
   }
   input {
       width: 90%;
   }
   textarea {
       width: 90%;
+  }
+  body {
+      background: url(../images/skyline.jpg) no-repeat;
+      background-size: cover;
+  }
+  .centerText {
+      background-color: #555;
+      color: azure;
   }
