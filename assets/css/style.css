@@ -23,3 +23,14 @@ footer {
     position: fixed;
     bottom: 0px;
   }
+  .contactMe{
+    margin: 2% 20% 8% 20%;
+    border: solid 2px grey;
+    width: 100%;
+  }
+  input {
+      width: 90%;
+  }
+  textarea {
+      width: 90%;
+  }
