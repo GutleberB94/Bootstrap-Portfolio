@@ -10,3 +10,16 @@
 .borderBlue {
     border: solid 2px blue;
 }
+
+.aboutMeText {
+    text-indent: 50px;
+    float: left;
+    border: solid 2px green;
+}
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+    position: fixed;
+    bottom: 0px;
+  }
