@@ -52,3 +52,9 @@ footer {
   .card {
       margin: 5%;
   }
+  .newForm {
+      background-color: #212529;
+      color: azure;
+      margin-top: 5%;
+      padding: 2%;
+  }
