@@ -45,7 +45,10 @@ footer {
       background-color: #555;
       color: azure;
       margin-top: 2%;
-      margin: ;
   }
-  .newForm {
+  .portfolioImages {
+      width: 15%;
+  }
+  .portImages {
+      margin: 10%;
   }
