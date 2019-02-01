@@ -45,6 +45,8 @@ footer {
       background-color: #555;
       color: azure;
       margin-top: 2%;
+      margin-bottom: 5%;
+      min-height: 80%;
   }
   .card {
       margin: 5%;
